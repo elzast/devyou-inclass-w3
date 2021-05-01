@@ -1,0 +1,12 @@
+/Users/Eli/Projects/conditional-statements/conditional-statements/obj/Debug/netcoreapp3.1/conditional-statements.csprojAssemblyReference.cache
+/Users/Eli/Projects/conditional-statements/conditional-statements/obj/Debug/netcoreapp3.1/conditional-statements.AssemblyInfoInputs.cache
+/Users/Eli/Projects/conditional-statements/conditional-statements/obj/Debug/netcoreapp3.1/conditional-statements.AssemblyInfo.cs
+/Users/Eli/Projects/conditional-statements/conditional-statements/obj/Debug/netcoreapp3.1/conditional-statements.csproj.CoreCompileInputs.cache
+/Users/Eli/Projects/conditional-statements/conditional-statements/bin/Debug/netcoreapp3.1/conditional-statements.deps.json
+/Users/Eli/Projects/conditional-statements/conditional-statements/bin/Debug/netcoreapp3.1/conditional-statements.runtimeconfig.json
+/Users/Eli/Projects/conditional-statements/conditional-statements/bin/Debug/netcoreapp3.1/conditional-statements.runtimeconfig.dev.json
+/Users/Eli/Projects/conditional-statements/conditional-statements/bin/Debug/netcoreapp3.1/conditional-statements.dll
+/Users/Eli/Projects/conditional-statements/conditional-statements/bin/Debug/netcoreapp3.1/conditional-statements.pdb
+/Users/Eli/Projects/conditional-statements/conditional-statements/obj/Debug/netcoreapp3.1/conditional-statements.dll
+/Users/Eli/Projects/conditional-statements/conditional-statements/obj/Debug/netcoreapp3.1/conditional-statements.pdb
+/Users/Eli/Projects/conditional-statements/conditional-statements/obj/Debug/netcoreapp3.1/conditional-statements.genruntimeconfig.cache
